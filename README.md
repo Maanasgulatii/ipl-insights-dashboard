@@ -147,3 +147,9 @@ streamlit run app.py
 ```
 
 The Streamlit dashboard will open in your default web browser at [http://localhost:8501](http://localhost:8501). You can now view the IPL Insights Dashboard locally in your workspace.
+
+<br><br><br>
+<div align="center">
+  <img src="Images/Wicket.gif" alt="Wicket celebration" />
+</div>
+
