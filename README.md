@@ -119,23 +119,31 @@ This project draws inspiration from a passion for dissecting and visualizing cri
 To run this project locally and explore the IPL analysis, follow these steps:
 
 ### 1. Clone the Repository
-'''bash
+
+```bash
 git clone https://github.com/Maanasgulatii/ipl-insights-dashboard.git
+```
 
 ### 2. Navigate to the Project Directory
 
+```bash
 cd ipl-insights-dashboard
+```
 
 ### 3. Install Required Libraries
 
 Make sure you have Python 3.8 or higher installed. Then, install the necessary Python libraries:
 
+```bash
 pip install pandas numpy matplotlib seaborn plotly streamlit
+```
 
 ### 4. Run the Streamlit App
 
 Start the dashboard locally:
 
+```bash
 streamlit run app.py
+```
 
-The Streamlit dashboard will open in your default web browser at [http://localhost:8501](http://localhost:8501).
+The Streamlit dashboard will open in your default web browser at [http://localhost:8501](http://localhost:8501). You can now view the IPL Insights Dashboard locally in your workspace.
