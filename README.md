@@ -111,3 +111,31 @@ This project draws inspiration from a passion for dissecting and visualizing cri
 <!-- <img title="repo views" src="https://repoviews.netlify.app/.netlify/functions/repoViews?file=app.py"> -->
 
 ![Divider Line](/Images/divider.png)
+
+---
+
+## Installation
+
+To run this project locally and explore the IPL analysis, follow these steps:
+
+### 1. Clone the Repository
+'''bash
+git clone https://github.com/Maanasgulatii/ipl-insights-dashboard.git
+
+### 2. Navigate to the Project Directory
+
+cd ipl-insights-dashboard
+
+### 3. Install Required Libraries
+
+Make sure you have Python 3.8 or higher installed. Then, install the necessary Python libraries:
+
+pip install pandas numpy matplotlib seaborn plotly streamlit
+
+### 4. Run the Streamlit App
+
+Start the dashboard locally:
+
+streamlit run app.py
+
+The Streamlit dashboard will open in your default web browser at [http://localhost:8501](http://localhost:8501).
